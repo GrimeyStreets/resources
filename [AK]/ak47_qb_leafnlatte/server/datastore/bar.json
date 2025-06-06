@@ -1,0 +1,43 @@
+{
+    "redwine": [
+        1,
+        1
+    ],
+    "tequilashots": [
+        0,
+        1
+    ],
+    "tequila": [
+        1
+    ],
+    "champagne": [
+        1,
+        1,
+        1
+    ],
+    "leaflatte": [
+        1,
+        1,
+        1
+    ],
+    "cocktail": [
+        1,
+        1,
+        1
+    ],
+    "whitewine": [
+        1
+    ],
+    "whisky": [
+        1,
+        1
+    ],
+    "mojito": [
+        1
+    ],
+    "daiquiri": [
+        1,
+        1,
+        1
+    ]
+}

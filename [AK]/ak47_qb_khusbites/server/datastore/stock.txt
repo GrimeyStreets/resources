@@ -1,0 +1,366 @@
+{
+    "grain_cream_joint": {
+        "stock": 290,
+        "price": 400
+    },
+    "blazebites": {
+        "stock": 274,
+        "price": 700
+    },
+    "glacatti": {
+        "stock": 799,
+        "price": 700
+    },
+    "chroniccrunchcookies": {
+        "stock": 298,
+        "price": 700
+    },
+    "clover_crunch": {
+        "stock": 299,
+        "price": 700
+    },
+    "hary_payton": {
+        "stock": 300,
+        "price": 700
+    },
+    "summit_og": {
+        "stock": 300,
+        "price": 700
+    },
+    "frosted_delight_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "royal_haze": {
+        "stock": 297,
+        "price": 700
+    },
+    "zen_blend_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "berry_swirl": {
+        "stock": 298,
+        "price": 700
+    },
+    "peach_cobbler_joint": {
+        "stock": 292,
+        "price": 400
+    },
+    "snowberry_gelato": {
+        "stock": 800,
+        "price": 700
+    },
+    "frosty_phantom": {
+        "stock": 795,
+        "price": 700
+    },
+    "choco_creme": {
+        "stock": 800,
+        "price": 700
+    },
+    "pure_cone_king": {
+        "stock": 300,
+        "price": 500
+    },
+    "runs_elite_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "grain_cream": {
+        "stock": 300,
+        "price": 700
+    },
+    "fluffy_og": {
+        "stock": 917,
+        "price": 700
+    },
+    "backroots_grape": {
+        "stock": 300,
+        "price": 500
+    },
+    "spiky_pear": {
+        "stock": 800,
+        "price": 700
+    },
+    "fig_delight": {
+        "stock": 297,
+        "price": 700
+    },
+    "citrus_crumble": {
+        "stock": 299,
+        "price": 700
+    },
+    "hary_payton_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "tangy_fuel": {
+        "stock": 800,
+        "price": 700
+    },
+    "summit_og_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "runs_elite": {
+        "stock": 795,
+        "price": 700
+    },
+    "biscuit_bliss": {
+        "stock": 299,
+        "price": 700
+    },
+    "elegant_porcelain_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "collins_way": {
+        "stock": 300,
+        "price": 700
+    },
+    "pure_runs": {
+        "stock": 300,
+        "price": 700
+    },
+    "azure_tomyz_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "boss_blend_joint": {
+        "stock": 299,
+        "price": 400
+    },
+    "fluffy_crunch": {
+        "stock": 299,
+        "price": 700
+    },
+    "crisp_gelato": {
+        "stock": 299,
+        "price": 700
+    },
+    "rosy_dunes_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "peach_cobbler": {
+        "stock": 300,
+        "price": 700
+    },
+    "zen_blend": {
+        "stock": 300,
+        "price": 700
+    },
+    "endurance_blend_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "bounce_blend": {
+        "stock": 299,
+        "price": 700
+    },
+    "graba_wrap": {
+        "stock": 295,
+        "price": 500
+    },
+    "frosties_blend": {
+        "stock": 800,
+        "price": 700
+    },
+    "rosy_dunes": {
+        "stock": 800,
+        "price": 700
+    },
+    "paris_mist": {
+        "stock": 299,
+        "price": 700
+    },
+    "endurance_blend": {
+        "stock": 300,
+        "price": 700
+    },
+    "spiced_crumble": {
+        "stock": 299,
+        "price": 700
+    },
+    "sunset_secret": {
+        "stock": 800,
+        "price": 700
+    },
+    "berry_bliss": {
+        "stock": 299,
+        "price": 700
+    },
+    "pastry_blend": {
+        "stock": 300,
+        "price": 700
+    },
+    "backroots_honey": {
+        "stock": 295,
+        "price": 500
+    },
+    "bio_crunch": {
+        "stock": 800,
+        "price": 700
+    },
+    "snowberry_gelato_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "lunar_stone": {
+        "stock": 297,
+        "price": 700
+    },
+    "vapor_essence": {
+        "stock": 294,
+        "price": 700
+    },
+    "blend_99": {
+        "stock": 298,
+        "price": 700
+    },
+    "azure_tomyz": {
+        "stock": 800,
+        "price": 700
+    },
+    "vapor_essence_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "wild_feline_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "vape": {
+        "stock": 296,
+        "price": 1000
+    },
+    "pure_runs_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "berry_muffin_joint": {
+        "stock": 299,
+        "price": 400
+    },
+    "pastry_blend_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "choco_creme_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "preston_pearl_cigars": {
+        "stock": 295,
+        "price": 500
+    },
+    "tangy_fuel_joint": {
+        "stock": 297,
+        "price": 400
+    },
+    "cheap_lighter": {
+        "stock": 300,
+        "price": 500
+    },
+    "crisp_gelato_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "golden_biscuit_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "collins_way_joint": {
+        "stock": 299,
+        "price": 400
+    },
+    "golden_biscuit": {
+        "stock": 300,
+        "price": 700
+    },
+    "royal_haze_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "berry_muffin": {
+        "stock": 799,
+        "price": 700
+    },
+    "glacatti_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "frosties_blend_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "sunset_secret_joint": {
+        "stock": 799,
+        "price": 400
+    },
+    "frosty_phantom_joint": {
+        "stock": 299,
+        "price": 400
+    },
+    "wild_feline": {
+        "stock": 300,
+        "price": 700
+    },
+    "hightimebrownies": {
+        "stock": 299,
+        "price": 700
+    },
+    "spiky_pear_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "elegant_porcelain": {
+        "stock": 300,
+        "price": 700
+    },
+    "banana_backroots": {
+        "stock": 298,
+        "price": 500
+    },
+    "herbaldelightgummies": {
+        "stock": 292,
+        "price": 700
+    },
+    "kushkrisps": {
+        "stock": 280,
+        "price": 700
+    },
+    "lighter": {
+        "stock": 294,
+        "price": 500
+    },
+    "backroots_creamy_blend": {
+        "stock": 300,
+        "price": 500
+    },
+    "frosted_delight": {
+        "stock": 300,
+        "price": 700
+    },
+    "fluffy_og_joint": {
+        "stock": 799,
+        "price": 400
+    },
+    "lunar_stone_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "boss_blend": {
+        "stock": 300,
+        "price": 700
+    },
+    "bio_crunch_joint": {
+        "stock": 300,
+        "price": 400
+    },
+    "golden_crumble": {
+        "stock": 298,
+        "price": 700
+    }
+}

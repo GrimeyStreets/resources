@@ -1,0 +1,122 @@
+{
+    "crispy_wrap_supreme_meal": {
+        "price": 500,
+        "stock": 500
+    },
+    "tacomeet": {
+        "price": 500,
+        "stock": 500
+    },
+    "apple_sparkle": {
+        "price": 500,
+        "stock": 500
+    },
+    "deluxe_soft_taco": {
+        "price": 500,
+        "stock": 500
+    },
+    "crispy_chicken_staco": {
+        "price": 500,
+        "stock": 500
+    },
+    "quesadilla": {
+        "price": 500,
+        "stock": 500
+    },
+    "cinnamon_twists": {
+        "price": 500,
+        "stock": 500
+    },
+    "cheese_quesadilla": {
+        "price": 500,
+        "stock": 500
+    },
+    "max_cola": {
+        "price": 500,
+        "stock": 500
+    },
+    "churros_dip": {
+        "price": 500,
+        "stock": 500
+    },
+    "fiery_lava_burrito": {
+        "price": 500,
+        "stock": 500
+    },
+    "supreme_taco_flatbread": {
+        "price": 500,
+        "stock": 500
+    },
+    "fries_grande": {
+        "price": 500,
+        "stock": 500
+    },
+    "fishtaco": {
+        "price": 500,
+        "stock": 500
+    },
+    "spicy_burrito_fiesta": {
+        "price": 500,
+        "stock": 500
+    },
+    "slim_cola": {
+        "price": 500,
+        "stock": 500
+    },
+    "supreme_taco_duo": {
+        "price": 500,
+        "stock": 500
+    },
+    "citrus_spark": {
+        "price": 500,
+        "stock": 500
+    },
+    "cheesy_beef_nachos": {
+        "price": 500,
+        "stock": 500
+    },
+    "crunchytaco": {
+        "price": 500,
+        "stock": 500
+    },
+    "spicy_chicken_burrito": {
+        "price": 500,
+        "stock": 500
+    },
+    "cheesy_black_bean": {
+        "price": 500,
+        "stock": 500
+    },
+    "chicken_burrito": {
+        "price": 500,
+        "stock": 500
+    },
+    "taco_regular": {
+        "price": 500,
+        "stock": 500
+    },
+    "citrus_fizz": {
+        "price": 500,
+        "stock": 500
+    },
+    "supreme_crunch_taco": {
+        "price": 500,
+        "stock": 500
+    },
+    "cheese_crunch_taco_wrap": {
+        "price": 500,
+        "stock": 500
+    },
+    "soft_taco": {
+        "price": 500,
+        "stock": 500
+    },
+    "crunchy_wrap_supreme": {
+        "price": 500,
+        "stock": 500
+    },
+    "cheesy_quesadilla_bites": {
+        "price": 500,
+        "stock": 500
+    }
+}

@@ -1,0 +1,2 @@
+['boltcutter'] = {['name'] = 'boltcutter', ['label'] = 'Bolt Cutter', ['weight'] = 100, ['type'] = 'item', ['image'] = 'boltcutter.png', ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Your description here'},
+['anklemonitor'] = {['name'] = 'anklemonitor', ['label'] = 'Ankle Monitor', ['weight'] = 100, ['type'] = 'item', ['image'] = 'anklemonitor.png', ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Your description here'},

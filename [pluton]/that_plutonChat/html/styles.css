@@ -1,0 +1,218 @@
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url('https://fonts.googleapis.com/css2?family=Play:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap');
+
+* {
+	font-family: 'Lato', sans-serif;
+	margin: 0;
+	padding: 0;
+	font-size: 1rem;
+
+	
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+	font-weight: bold;
+}
+
+#app {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: white;
+	background-color: transparent;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+  background-color: transparent;
+}
+::-webkit-scrollbar-thumb{
+	background-color: rgba(0, 0, 0, 0.600);
+}
+
+.invisScroll::-webkit-scrollbar-thumb{
+	background-color: transparent;
+}
+
+.chat-window {
+	position: absolute;
+	top: 2.5%;
+	left: 40px;
+	width: 100%;
+	height: 100%;
+	max-width: 40%;
+	border-radius: 5px;
+	background-color: rgba(0, 0, 0, 0.0) !important;
+	-webkit-animation-duration: 0s;
+
+}
+
+.chat-messages {
+	direction: rtl;
+
+	max-height: 300px;
+	font-size: 1.4rem;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	
+	display: block;
+
+	margin: 10px;
+	height: 60%;
+	background-color: rgba(38, 38, 38, 0);
+}
+
+.chat-input {
+	font-size: 1.65vh;
+	margin-top: 2px;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+#inputLength{
+	font-size: 1.7vh;
+	
+	width: 11%;
+
+	display: flex;
+
+	align-items: center;
+	justify-content: end;
+}
+
+input {
+	font-size: 1.7vh;
+	display: block;
+	box-sizing: border-box;
+	padding-top: 1.6%;
+	padding-left: 1.6%;
+	padding-bottom: 1.4%;
+	padding-right: 1.6%;
+	color: rgb(255, 255, 255);
+	background-color: rgba(0, 0, 0, 0.600);
+	width: 89%;
+	border: 2px solid rgba(255, 255, 255, 0);
+	height: 40px !important;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	resize: none;
+	font-weight: bold;
+}
+
+input:focus {
+	outline: none;
+}
+
+.msg {
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	text-align: left;
+	margin-left: 5px;
+}
+
+.suggestions {
+	text-align: left;
+	margin-top: 5px;
+	list-style-type: none;
+	padding: 5px;
+	padding-left: 1.6%;
+	font-size: 0.9rem;
+	box-sizing: border-box;
+	color: gray;
+	background-color: rgba(0, 0, 0, 0.0);
+	width: 100%;
+	max-height: 140px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	border-radius: 0 0 5px 5px;
+	border: none;
+}
+.suggestions:hover{
+	overflow-y: scroll;
+}
+
+.help {
+	margin-top: -10px;
+	color: #b0bbbd;
+}
+
+.div-line{
+	margin: 1%;
+	width: 98%;
+	border-top: 2px solid #bbb;
+  	border-radius: 5px;
+}
+
+.suggestion {
+	width: fit-content;
+	height: fit-content;
+	margin-bottom: 0.5px;
+
+	/* border: 1px solid yellow; */
+}
+.suggestion:hover {
+	cursor: copy;
+	color: white;
+}
+
+.chat-message {
+	display: block !important;
+	/* padding: 0.6vw; */
+	/* padding-top: 0.6vw; */
+	padding-bottom: 0.4vw;
+	width: 100%;
+	overflow: hidden;
+	word-break: break-word;
+	box-sizing: border-box;
+	/* box-shadow: 0px 0px 10px -5px rgba(0, 0, 0, 1); */
+}
+
+#chat_char{
+	font-weight: bold;
+	background-color: rgba(0, 0, 0, 0.5);
+	padding-left: 5px;
+	/* padding-top: 5px; */
+	/* padding-bottom: 5px; */
+	padding-right: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 1px;
+	border: 2px solid rgb(80, 80, 80);
+	border-radius: 20px;
+}
+#chat_msg{
+	color: rgb(255, 255, 255);
+}
+
+.chat-command-container{
+	display:flex; flex-direction: row; justify-content: left; align-items: center;
+}
+.command-container {
+	display: block;
+	position: relative;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color:gray;
+	font-weight: bold;
+	border-radius: 5px;
+	cursor: pointer;
+	font-size: 14px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	width: fit-content;
+	height: fit-content;
+}
+.command-container:hover{
+	color:white;
+}

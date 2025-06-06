@@ -1,0 +1,166 @@
+{
+    "seasoned_fries": {
+        "price": 150,
+        "stock": 500
+    },
+    "crispy_tender_combo": {
+        "price": 150,
+        "stock": 500
+    },
+    "party_pack": {
+        "price": 500,
+        "stock": 500
+    },
+    "chickenwings_dips": {
+        "price": 100,
+        "stock": 500
+    },
+    "apple_fizz": {
+        "price": 100,
+        "stock": 500
+    },
+    "boneless_wings": {
+        "price": 0,
+        "stock": 500
+    },
+    "veggie_sticks": {
+        "price": 100,
+        "stock": 500
+    },
+    "hot_chicken_wrap": {
+        "price": 100,
+        "stock": 500
+    },
+    "light_cola": {
+        "price": 100,
+        "stock": 500
+    },
+    "thirty_crispy_tenders": {
+        "price": 500,
+        "stock": 500
+    },
+    "buffalo_ranch_fries": {
+        "price": 150,
+        "stock": 500
+    },
+    "citrus_burst_soda": {
+        "price": 100,
+        "stock": 500
+    },
+    "garlic_parm_wings": {
+        "price": 100,
+        "stock": 500
+    },
+    "chicken_and_waffles": {
+        "price": 100,
+        "stock": 500
+    },
+    "crispy_tenders": {
+        "price": 150,
+        "stock": 500
+    },
+    "w_ice_cola": {
+        "price": 100,
+        "stock": 500
+    },
+    "spicy_cherry_cola": {
+        "price": 100,
+        "stock": 500
+    },
+    "boneless_meal_deal": {
+        "price": 150,
+        "stock": 500
+    },
+    "group_pack": {
+        "price": 150,
+        "stock": 500
+    },
+    "chicken_caesar_salad": {
+        "price": 100,
+        "stock": 500
+    },
+    "cheese_sauce": {
+        "price": 100,
+        "stock": 500
+    },
+    "berry_sparkle_soda": {
+        "price": 100,
+        "stock": 500
+    },
+    "fresh_baked_rolls": {
+        "price": 100,
+        "stock": 500
+    },
+    "large_thigh_bites": {
+        "price": 150,
+        "stock": 500
+    },
+    "spicy_cajun_fries": {
+        "price": 150,
+        "stock": 500
+    },
+    "korean_bbq_wings": {
+        "price": 100,
+        "stock": 500
+    },
+    "wing_combo": {
+        "price": 150,
+        "stock": 500
+    },
+    "cajun_fried_corn": {
+        "price": 100,
+        "stock": 500
+    },
+    "citrus_spark": {
+        "price": 100,
+        "stock": 500
+    },
+    "hundred_wings": {
+        "price": 150,
+        "stock": 500
+    },
+    "meal_for_two": {
+        "price": 150,
+        "stock": 500
+    },
+    "classic_wings_combo": {
+        "price": 150,
+        "stock": 500
+    },
+    "medium_citrus_spark": {
+        "price": 100,
+        "stock": 500
+    },
+    "thigh_bites_combo": {
+        "price": 150,
+        "stock": 500
+    },
+    "triple_meal_deal": {
+        "price": 150,
+        "stock": 500
+    },
+    "slim_cola": {
+        "price": 100,
+        "stock": 500
+    },
+    "bites_group_pack": {
+        "price": 150,
+        "stock": 500
+    },
+    "side_of_flavor": {
+        "price": 100,
+        "stock": 500
+    },
+    "tender_pack": {
+        "price": 150,
+        "stock": 500
+    },
+    "cheese_fries": {
+        "price": 150,
+        "stock": 500
+    },
+    "chocolate_chunk_brownie": {
+        "price": 100,
+        "stock": 500
+    }
+}

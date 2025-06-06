@@ -1,0 +1,102 @@
+{
+    "classic_morning_brew": {
+        "price": 500,
+        "stock": 500
+    },
+    "iced_classic_latte": {
+        "price": 500,
+        "stock": 500
+    },
+    "morning_rings": {
+        "price": 500,
+        "stock": 500
+    },
+    "bacon_egg_cheese": {
+        "price": 500,
+        "stock": 500
+    },
+    "silky_smooth_latte": {
+        "price": 500,
+        "stock": 500
+    },
+    "classic_cream_latte": {
+        "price": 500,
+        "stock": 500
+    },
+    "bagel_cream_cheese": {
+        "price": 500,
+        "stock": 500
+    },
+    "golden_flake_croissant": {
+        "price": 500,
+        "stock": 500
+    },
+    "cold_brew": {
+        "price": 500,
+        "stock": 500
+    },
+    "fruit_sparkler": {
+        "price": 500,
+        "stock": 500
+    },
+    "morning_muffins": {
+        "price": 500,
+        "stock": 500
+    },
+    "packaged_coffee": {
+        "price": 500,
+        "stock": 500
+    },
+    "iced_macchiatto": {
+        "price": 500,
+        "stock": 500
+    },
+    "amber_brew_tea": {
+        "price": 500,
+        "stock": 500
+    },
+    "morning_wrap": {
+        "price": 500,
+        "stock": 500
+    },
+    "iced_matcha_latte": {
+        "price": 500,
+        "stock": 500
+    },
+    "velvet_layered_macchiato": {
+        "price": 500,
+        "stock": 500
+    },
+    "classic_dark_americano": {
+        "price": 500,
+        "stock": 500
+    },
+    "packaged_tea": {
+        "price": 500,
+        "stock": 500
+    },
+    "iced_cappuccino": {
+        "price": 500,
+        "stock": 500
+    },
+    "sourdough_breakfast_sandwich": {
+        "price": 500,
+        "stock": 500
+    },
+    "crispy_bacon_bites": {
+        "price": 500,
+        "stock": 500
+    },
+    "hash_browns": {
+        "price": 500,
+        "stock": 500
+    },
+    "mini_donut_bites": {
+        "price": 500,
+        "stock": 500
+    },
+    "bagel_bites_duo": {
+        "price": 500,
+        "stock": 500
+    }
+}

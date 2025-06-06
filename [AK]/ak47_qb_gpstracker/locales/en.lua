@@ -1,0 +1,21 @@
+Locales['en'] = {
+    ['novehicle'] = '~r~No vehicle nearby!',
+    ['searching'] = 'Searching...',
+    ['installing'] = 'Installing gps tracker...',
+    ['nothing'] = '~r~You found nothing!',
+    ['removed'] = '~g~You removed tracker from this vehicle.',
+    ['try_search'] = '~b~Search for the tracker first!',
+    ['removing'] = 'Removing gps tracker...',
+    ['found'] = '~g~You found the tracker!',
+    ['notfound'] = '~r~No tracker found in this vehicle!',
+    ['not_allowed'] = '~r~You are not allowed to use this item!',
+    ['already'] = '~r~A tracker is already installed in this vehicle!',
+    ['gps_required'] = '~r~You don\'t have a GPS Tracker!',
+    ['cutter_required'] = '~r~You don\'t have any Wire Cutter!',
+    ['detector_required'] = '~r~You don\'t have any Bug Detector!',
+    ['installed'] = '~g~GPS tracker installed.',
+    ['driving'] = '~r~You can\'t search while driving.',
+    ['cancel'] = 'Press [E] to cancel',
+    ['cancelled'] = '~r~Task cancelled!',
+
+}

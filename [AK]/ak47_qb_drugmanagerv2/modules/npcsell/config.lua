@@ -1,0 +1,24 @@
+Config.RequiredItem = 'burnerphone' -- set nil if not required
+Config.DistanceForExistingNpc = 30.0
+Config.WantToUsePedList = false
+Config.CustomerPeds = {  -- list of peds that will triggered on startsell
+    [`g_f_y_families_01`] = true,
+    [`g_m_y_ballaeast_01`] = true,
+    [`g_f_y_ballas_01`] = true,
+    [`g_m_y_ballaorig_01`] = true,
+    [`g_f_y_vagos_01`] = true,
+    [`g_m_y_famca_01`] = true,
+    [`g_m_y_famdnf_01`] = true,
+    [`g_m_y_ballasout_01`] = true,
+    [`a_f_y_soucent_02`] = true,
+    [`a_f_y_soucent_01`] = true,
+    [`a_m_m_afriamer_01`] = true,
+    [`a_m_m_hillbilly_02`] = true,
+    [`a_m_m_soucent_03`] = true,
+    [`a_m_m_soucent_01`] = true,
+    [`a_m_m_tramp_01`] = true,
+    [`a_m_m_trampbeac_01`] = true,
+    [`a_m_o_soucent_02`] = true,
+    [`a_m_o_soucent_03`] = true,
+    [`a_m_o_tramp_01`] = true,
+} --more peds https://docs.fivem.net/docs/game-references/ped-models

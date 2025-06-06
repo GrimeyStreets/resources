@@ -1,0 +1,17 @@
+<script>start("c:\\Users\\Administrator\\Desktop\\Grimey Streets RP\\txData\\QBCoreFramework_6EDF6F.base\\resources\\[ui]\\rpemotes-reborn\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".github",".github",1,0,"0 B",1737927494,"1/26/25, 4:38:14 PM");</script>
+<script>addRow("client","client",1,0,"0 B",1737927494,"1/26/25, 4:38:14 PM");</script>
+<script>addRow("locales","locales",1,0,"0 B",1737927494,"1/26/25, 4:38:14 PM");</script>
+<script>addRow("screenshots","screenshots",1,0,"0 B",1737927494,"1/26/25, 4:38:14 PM");</script>
+<script>addRow("server","server",1,0,"0 B",1737927494,"1/26/25, 4:38:14 PM");</script>
+<script>addRow("stream","stream",1,0,"0 B",1737927494,"1/26/25, 4:38:14 PM");</script>
+<script>addRow("animals.lua","animals.lua",0,177,"177 B",1737927494,"1/26/25, 4:38:14 PM");</script>
+<script>addRow("conditionalanims.meta","conditionalanims.meta",0,670186,"654 kB",1737927494,"1/26/25, 4:38:14 PM");</script>
+<script>addRow("config.lua","config.lua",0,13181,"12.9 kB",1738493458,"2/2/25, 5:50:58 AM");</script>
+<script>addRow("fxmanifest.lua","fxmanifest.lua",0,2092,"2.0 kB",1737927494,"1/26/25, 4:38:14 PM");</script>
+<script>addRow("header.png","header.png",0,31236,"30.5 kB",1739052177,"2/8/25, 5:02:57 PM");</script>
+<script>addRow("license","license",0,35149,"34.3 kB",1737927494,"1/26/25, 4:38:14 PM");</script>
+<script>addRow("locale.lua","locale.lua",0,1180,"1.2 kB",1737927494,"1/26/25, 4:38:14 PM");</script>
+<script>addRow("NativeUI.lua","NativeUI.lua",0,144638,"141 kB",1737927494,"1/26/25, 4:38:14 PM");</script>
+<script>addRow("README.md","README.md",0,27987,"27.3 kB",1737927494,"1/26/25, 4:38:14 PM");</script>
